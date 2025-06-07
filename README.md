@@ -38,9 +38,23 @@ Changes made in the app are **immediately saved to the CSV file**.
 
 ## UI Screenshots
 
-# Home Page
+## Home Page
 ![Home Page](homepage.png)
 
+## View Page
+![View page](view.png)
+
+## QR Code and Edit
+![QR Code](qrcode.png)
+
+## Edit assets
+![Edit db](add.png)
+
+## Add assets
+![Add assets](addassets.png)
+
+## Manage columns
+![Manage Columns](managecolumns.png)
 ---
 ## 📦 Requirements
 
