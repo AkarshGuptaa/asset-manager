@@ -14,17 +14,34 @@ A modern desktop GUI application built with `CustomTkinter` to manage, view, add
 ---
 
 ## 🖥️ Features
+📂 View and search assets
+➕ Add new rows and columns
+✏️ Edit asset entries directly in a popup window
+🔍 Search across all fields
+🔐 CSV-based storage (easily portable)
+🔄 QR Code generated for each asset (click to save!)
+🌙 Clean dark-mode UI using `CustomTkinter`
 
-- 📂 View and search assets
-- ➕ Add new rows and columns
-- ✏️ Edit asset entries directly in a popup window
-- 🔍 Search across all fields
-- 🔐 CSV-based storage (easily portable)
-- 🔄 QR Code generated for each asset (click to save!)
-- 🌙 Clean dark-mode UI using `CustomTkinter`
+---
+## 🧠 How It Works
+
+The app reads from `assets.csv` and allows you to:
+
+* Add/edit/delete rows and columns
+* Search for keywords across the whole sheet
+* Display assets in a stylized table
+* Click on any row to edit the asset and generate a downloadable QR code
+
+Changes made in the app are **immediately saved to the CSV file**.
 
 ---
 
+## UI Screenshots
+
+# Home Page
+![Home Page](homepage.png)
+
+---
 ## 📦 Requirements
 
 Install the dependencies using:
@@ -83,25 +100,6 @@ dist/app.exe
 ```
 
 Double-click it to launch the Asset Manager as a standalone app 🎉
-
----
-
-## 🧠 How It Works
-
-The app reads from `assets.csv` and allows you to:
-
-* Add/edit/delete rows and columns
-* Search for keywords across the whole sheet
-* Display assets in a stylized table
-* Click on any row to edit the asset and generate a downloadable QR code
-
-Changes made in the app are **immediately saved to the CSV file**.
-
----
-
-## 🖼️ UI Screenshots (Optional)
-
-Add screenshots here to show the main screen, add form, and QR code pop-up.
 
 ---
 
