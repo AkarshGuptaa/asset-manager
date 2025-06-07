@@ -126,5 +126,3 @@ Made with ❤️ by Akarsh
 ## 📜 License
 
 This project is open-source under the [MIT License](LICENSE).
-
-```
