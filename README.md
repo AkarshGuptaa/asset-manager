@@ -87,10 +87,6 @@ python app.py
 
 ### 1. 🔄 Activate Your Virtual Environment
 
-```powershell
-& "C:\Users\ASUS\PycharmProjects\RAG\.venv\Scripts\Activate.ps1"
-```
-
 ### 2. ⬇️ Install PyInstaller
 
 ```powershell
